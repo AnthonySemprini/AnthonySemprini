@@ -14,7 +14,7 @@
     
 
 
-<h1>SKILLS</h1>
+<h1> ⚡️ SKILLS</h1>
 <p align="left"> 
 <h3 align="left"> 🧑🏻‍💻 Tools:</h3> 
 
