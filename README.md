@@ -12,13 +12,9 @@
 
    <img src="programmer.jpeg" heigth="600px" width="600px" alt="">
     
-<h2>Resaux Sociaux</h2>
-
-<p align="left">
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="anthony-semprini-5a4066145" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/anthony-semprini-5a4066145?trk=profile-badge">  <img src="link.png" width="30px" height="30px" ><strong></strong>  Anthony Semprini</a></div>
-</p>
 
 
+<h1>SKILLS</h1>
 <p align="left"> 
 <h3 align="left"> 🧑🏻‍💻 Tools:</h3> 
 
@@ -49,6 +45,12 @@
 ![Microsoft PowerPoint](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+PowerPoint&color=B7472A&logo=Microsoft+PowerPoint&logoColor=FFFFFF&label=)
 
 ![Microsoft OneDrive](https://img.shields.io/static/v1?style=for-the-badge&message=Microsoft+OneDrive&color=0078D4&logo=Microsoft+OneDrive&logoColor=FFFFFF&label=)
+
+<h2>Resaux Sociaux</h2>
+
+<p align="left">
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="anthony-semprini-5a4066145" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/anthony-semprini-5a4066145?trk=profile-badge">  <img src="link.png" width="30px" height="30px" ><strong></strong>  Anthony Semprini</a></div>
+</p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anthonysemprini&show_icons=true&locale=en&layout=compact" alt="anthonysemprini" /></p>
 
