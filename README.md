@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-    <img src="programmer.jpeg" heigth="600px" width="600px" alt="">
+   <img src="programmer.jpeg" heigth="600px" width="600px" alt="">
     
 <h2>Resaux Sociaux</h2>
 
