@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
-- 🌱 I’m currently learning **Php, JavaScript**
 
-- 📫 How to reach me **semprini.anthony@gmail.com**
+- 🌱 I’m currently learning Php, JavaScript
+
+- 📫 How to reach me semprini.anthony@gmail.com
 
 <h3 align="left">Connect with me:</h3>
-    <img src="programmer.jpeg" alt="">
+    <img src="programmer.jpeg" heigth="200px" width="200px" alt="">
 <p align="left">
     
 <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="anthony-semprini-5a4066145" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/anthony-semprini-5a4066145?trk=profile-badge">  <strong>in : </strong>Anthony Semprini</a></div>
