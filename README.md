@@ -60,7 +60,7 @@
 
 <p>
 <div><img src="link.png" width="30px" height="30px" ><strong></strong>  Anthony Semprini</a></div>
-<div><img src="gitHub.png" height="40px" width="40px"><a href="https://github.com/AnthonySemprini">AnthonySemprini</a></div> 
+<div><img src="gitHub.png" height="30px" width="30px"><a href="https://github.com/AnthonySemprini">AnthonySemprini</a></div> 
 </p>
 
 <h2> 🖥️ Stats Overview</h2>
