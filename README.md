@@ -8,6 +8,8 @@
  
 - 📫 How to reach me semprini.anthony@gmail.com
 
+- 🏡 I live in Strasbourg "FRANCE"
+
 <h3 align="left">Connect with me:</h3>
 
    <img src="programmer.jpeg" heigth="600px" width="600px" alt="">
