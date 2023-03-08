@@ -10,10 +10,9 @@
 
 <h3 align="left">Connect with me:</h3>
     <img src="programmer.jpeg" heigth="600px" width="600px" alt="">
-<p align="left">
     
+<p align="center">
 <div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="anthony-semprini-5a4066145" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/anthony-semprini-5a4066145?trk=profile-badge">  <img src="link.png" width="40px" height="40px" border: 1px solid black; ><strong></strong> => Anthony Semprini</a></div>
-              
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
