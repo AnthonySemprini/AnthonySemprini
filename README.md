@@ -2,6 +2,10 @@
 
 - 🌱 I’m currently learning Php, JavaScript
 
+- 👨🏻‍🎓 I am a student at "Elan Formation"
+
+- 🧑🏻‍💻 I learn web development on php and javaScript
+ 
 - 📫 How to reach me semprini.anthony@gmail.com
 
 <h3 align="left">Connect with me:</h3>
