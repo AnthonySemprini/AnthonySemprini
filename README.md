@@ -59,7 +59,7 @@
 <h2>Resaux Sociaux</h2>
 
 <p>
-<div><img src="link.png" width="30px" height="30px" ><ahttps://www.linkedin.com/in/anthony-semprini-5a4066145/>Linkedin</a></div>
+<div><img src="link.png" width="30px" height="30px" ><a href="www.linkedin.com/in/anthony-semprini-5a4066145">Linkedin</a></div>
 <div><img src="gitHub.png" height="30px" width="30px"><a href="https://github.com/AnthonySemprini">Github</a></div> 
 </p>
 
