@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
     <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
 <p align="left">
-<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="anthony-semprini-5a4066145" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/anthony-semprini-5a4066145?trk=profile-badge">Anthony Semprini</a></div>
+<div class="badge-base LI-profile-badge" data-locale="fr_FR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="anthony-semprini-5a4066145" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://fr.linkedin.com/in/anthony-semprini-5a4066145?trk=profile-badge"> Linkedin : Anthony Semprini</a></div>
               
 </p>
 
