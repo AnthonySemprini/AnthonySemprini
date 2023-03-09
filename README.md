@@ -68,3 +68,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anthonysemprini&" alt="anthonysemprini" /></p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AnthonySemprini)
+![nbrFolow](https://img.shields.io/github/followers/{id=AnthonySemprini}.svg?style=social&label=Follow&maxAge=2592000)
