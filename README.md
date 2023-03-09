@@ -23,6 +23,8 @@
  
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 
+![MAMP](https://a11ybadges.com/badge?logo=mamp) 
+ 
 ![Laragon](https://img.shields.io/static/v1?style=for-the-badge&message=Laragon&color=0E83CD&logo=Laragon&logoColor=FFFFFF&label=)
  
  </details>
@@ -40,6 +42,15 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 </details>
+
+<details open>
+<summary>💻 operating system:</summary>
+ 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+ 
+![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+</details>
+
 
  <details >
 <summary> 🖇️ Office:</summary>
@@ -68,4 +79,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anthonysemprini&" alt="anthonysemprini" /></p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=AnthonySemprini)
-![nbrFolow](https://img.shields.io/github/followers/{id=AnthonySemprini}.svg?style=social&label=Follow&maxAge=2592000)
+
+![nbrFolow](https://img.shields.io/github/followers/AnthonySemprini.svg?style=social&label=Follow&maxAge=2592000)
