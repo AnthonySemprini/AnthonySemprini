@@ -19,7 +19,7 @@
 <h1> ⚡️ SKILLS</h1>
 
 <details open>
-<summary> 🧑🏻‍💻 Tools:</summary>
+<summary> 🛠️ Tools:</summary>
  
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 
@@ -44,7 +44,7 @@
 </details>
 
 <details open>
-<summary>💻 operating system:</summary>
+<summary>🧑🏻‍💻 operating system:</summary>
  
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
  
