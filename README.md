@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 
-- 🌱 I’m currently learning Php, JavaScript
+- 🧑🏻‍💻 I’m currently learning Php symfony and JavaScript
 
 - 👨🏻‍🎓 I am a student at "Elan Formation"
-
-- 🧑🏻‍💻 I learn web development on php and javaScript
  
 - 📫 How to reach me semprini.anthony@gmail.com
 
