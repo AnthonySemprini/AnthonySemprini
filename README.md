@@ -4,9 +4,9 @@
 
 - 👨🏻‍🎓 I am a student at "Elan Formation"
  
-- 📫 How to reach me <a>semprini.anthony@gmail.com</a>
+- 📫 How to reach me <a href="semprini.anthony@gmail.com">My email</a>
 
-- 👨🏻‍🏫 My linkedin <a>https://www.linkedin.com/in/anthony-semprini-5a4066145/</a>
+- 👨🏻‍🏫  <a href="https://www.linkedin.com/in/anthony-semprini-5a4066145/">My linkedin</a>
 
 - 🏡 I live in Strasbourg "FRANCE"
 
