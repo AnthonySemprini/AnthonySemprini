@@ -50,6 +50,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anthonysemprini&" alt="anthonysemprini" /></p>
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anthonysemprini&)](https://github.com/anuraghazra/github-readme-stats)
-
 ![nbrFolow](https://img.shields.io/github/followers/AnthonySemprini.svg?style=social&label=Follow&maxAge=2592000)
