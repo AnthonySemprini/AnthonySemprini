@@ -21,12 +21,7 @@
 <details open>
 <summary> 🛠️ Tools:</summary>
  
-![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
-
-![MAMP](https://a11ybadges.com/badge?logo=mamp) 
- 
-![Laragon](https://img.shields.io/static/v1?style=for-the-badge&message=Laragon&color=0E83CD&logo=Laragon&logoColor=FFFFFF&label=)
- 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
  </details>
 
 
