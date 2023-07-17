@@ -21,7 +21,7 @@
 <details open>
 <summary> 🛠️ Tools:</summary>
  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,bootstrap,laragon,mamp)](https://skillicons.dev)
  </details>
 
 
