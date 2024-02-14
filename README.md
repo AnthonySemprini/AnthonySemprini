@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anthony</h1>
 
-- 🧑🏻‍💻 I’m currently learning Php symfony and JavaScript
-
-- 👨🏻‍🎓 I am a student at "Elan Formation"
+- 🧑🏻‍💻 I’m developper web PHP Symfony & JavaScript
  
 - 📫 How to reach me <a>semprini.anthony@gmail.com</a>
 
