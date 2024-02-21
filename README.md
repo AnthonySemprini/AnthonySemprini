@@ -19,22 +19,24 @@
 <details open>
 <summary> 🛠️ Tools:</summary>
  
-[![My Skills](https://skillicons.dev/icons?i=figma,bootstrap,tailwind,vscode,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,vscode,git)](https://skillicons.dev)
  </details>
 
 
 <details open>
-<summary> 🧑🏻‍💻 Language:</summary>
+<summary> 🧑🏻‍💻 Language & framework:</summary>
  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,symfony)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php,js,mysql)](https://skillicons.dev)
+<br>
+[![My Skills](https://skillicons.dev/icons?i=symfony,laravel,vue,react,bootstrap,tailwind)](https://skillicons.dev)
 </details>
 
 <details open>
 <summary> 💻 operating system:</summary>
  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![Windows](https://skillicons.dev/icons?i=windows)](https://skillicons.dev)
  
-![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+[![MacOS](https://skillicons.dev/icons?i=apple)](https://skillicons.dev)
 </details>
 
 
